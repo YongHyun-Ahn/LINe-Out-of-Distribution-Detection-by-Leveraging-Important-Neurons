@@ -1,6 +1,12 @@
 # LINe: Out-of-Distribution Detection by Leveraging Important Neurons
 
-This is the source code for [LINe: Out-of-Distribution Detection by Leveraging Important Neurons]
+[![🦢 - Paper](https://img.shields.io/badge/🦢-Paper-red)](https://arxiv.org/abs/2303.13995)
+
+This is the source code for [LINe: Out-of-Distribution Detection by Leveraging Important Neurons] 
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023
+
+Last update: 23/06/13
+We updated README.md to adjust usage informations.
 
 ## Usage
 
@@ -32,10 +38,6 @@ For Textures, we use the entire dataset, which can be downloaded from their
 [original website](https://www.robots.ox.ac.uk/~vgg/data/dtd/).
 
 Please put all downloaded OOD datasets into `./datasets/`.
-
-#### Pre-trained model
-
-Please download [Bit-S-R101x1](https://drive.google.com/file/d/1hrM3h6HL-BE6PtXJmmc1H6RWe7oakNZo/view?usp=sharing) and place in the `checkpoints` folder.
 
 ### 2. Dataset Preparation for CIFAR Experiment 
 
