@@ -5,7 +5,10 @@
 This is the official source code for [LINe: Out-of-Distribution Detection by Leveraging Important Neurons] 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023
 
+<img src="https://raw.githubusercontent.com/YongHyun-Ahn/LINe-Out-of-Distribution-Detection-by-Leveraging-Important-Neurons/figures/overview.png" width="700">
+
 Last update: 23/06/13
+
 We updated README.md to adjust usage informations.
 
 ## Usage
