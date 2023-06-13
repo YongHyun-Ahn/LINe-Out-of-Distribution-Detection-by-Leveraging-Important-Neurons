@@ -2,7 +2,7 @@
 
 [![🦢 - Paper](https://img.shields.io/badge/🦢-Paper-red)](https://arxiv.org/abs/2303.13995)
 
-This is the source code for [LINe: Out-of-Distribution Detection by Leveraging Important Neurons] 
+This is the official source code for [LINe: Out-of-Distribution Detection by Leveraging Important Neurons] 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023
 
 Last update: 23/06/13
